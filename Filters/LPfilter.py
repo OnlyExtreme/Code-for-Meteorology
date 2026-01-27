@@ -101,5 +101,5 @@ def draw_response():
 
     plt.show()
 
-
-draw_Hr()
+if __name__ == "main":
+    draw_Hr()
