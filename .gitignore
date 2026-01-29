@@ -1,0 +1,9 @@
+# Large data files
+*.nc
+*.pdf
+
+# Temporary files
+tempCodeRunnerFile.exe
+
+# Python cache
+__pycache__/
